@@ -1,0 +1,12 @@
+// TODO: Global
+.app__content{
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.error_message{
+  &--red {
+    color: red !important;
+    text-align: start;
+  }
+}
